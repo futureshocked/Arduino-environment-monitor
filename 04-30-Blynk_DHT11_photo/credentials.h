@@ -3,10 +3,10 @@
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID "TMPLLASN5HsJ"
 #define BLYNK_DEVICE_NAME "ESP01S Arduino Uno"
-#define BLYNK_AUTH_TOKEN "oWN3RQdMF0xDtjaO1MTds14KE8kiJeMC"
+#define BLYNK_AUTH_TOKEN "--YOUR BLYNK AUTH TOKEN--"
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
 
-char ssid[] = "ardwifi";
-char pass[] = "ardwifi987";
+char ssid[] = "--YOUR WIFI NETWORK ID--";
+char pass[] = "--YOUR WIFI NETWORK PASSWORD--";
