@@ -9,4 +9,4 @@
 // Set password to "" for open networks.
 
 char ssid[] = "---YOUR WIFI ID--";
-char pass[] = "--YOUR WIFI PASSWORD--";
+char pass[] = "---YOUR WIFI PASSWORD--";
